@@ -11,7 +11,7 @@ So I coded a little script that:
 
 How to use:
 Put the programm in the Proxyfier folder (where you can find the Proxifier.exe). 
-Run the Programm with the following commandline params: 1 <proxyip> <proxyport> <proxyusename> <proxypass>
+`Run the Programm with the following commandline params: 1 <proxyip> <proxyport> <proxyusename> <proxypass>`
 
 Thats it. Now Proxyfier automatically loads the fresh created profile we just created.
 
